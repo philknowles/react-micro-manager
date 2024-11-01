@@ -1,0 +1,15 @@
+.btn-none {
+    border:0;
+    background: transparent;
+    cursor: pointer;
+}
+
+input {
+    padding:10px;
+    border-radius: 15px;
+    border: 1px solid #ccc;
+}
+
+.btn.delete {
+    color:rgb(255, 102, 102);
+}
